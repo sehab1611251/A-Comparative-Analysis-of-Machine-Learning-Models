@@ -49,21 +49,6 @@ This project evaluates various machine learning models to predict national happi
 - **Healthy Life Expectancy**: Most significant predictor across all models.
 - **Social Support and Positive Affect**: Consistently impactful predictors.
 
-## Example Inputs and Outputs
-### Multiple Linear Regression
-Input:
-- Social Support, Healthy Life Expectancy, Positive Affect
-
-Output:
-- Predicted Life Ladder score: 6.8
-
-### Multinomial Logistic Regression
-Input:
-- Social Support, Freedom to Make Life Choices, Perceptions of Corruption
-
-Output:
-- Happiness Level: Very Happy
-
 ## Conclusion
 - Polynomial Regression demonstrated the best regression performance.
 - Multinomial Logistic Regression outperformed Naive Bayes for classification tasks.

@@ -12,7 +12,7 @@ This project evaluates various machine learning models to predict national happi
 5. **Naive Bayes**: Provides a probabilistic framework for classifying happiness levels.
 
 ## Dataset Overview
-- **Source**: World Happiness Report
+- **Source**: [World Happiness Report](https://worldhappiness.report/data/)
 - **Number of Observations**: ~2000
 - **Target Variable**: 
   - **Life Ladder**: Continuous measure of self-reported life satisfaction.
